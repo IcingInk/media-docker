@@ -1,4 +1,5 @@
 # media-docker
+<a href="https://github.com/DINA-Web/media-docker/blob/master/LICENSE"><img src="https://img.shields.io/badge/license-AGPLv3-blue.svg" alt="AGPLv3 License" /></a></p>
 
 A dockerized media server module <br>
 Tested with proxy-docker ( nginx reverse proxy : https://github.com/DINA-Web/proxy-docker  -configured to handle 'large' files )<br>
